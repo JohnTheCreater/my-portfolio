@@ -6,21 +6,27 @@
         left:10%;
         top:50%;
         transform:translateY(-50%);
-        width:40%;
+        width:70%;
         max-height:90%;
+        padding-left: 10%;
+        font-size: 15px;
     }
     h1{
         color:#fff;
         margin:0 ;
         font-family:'coolvetica';
-        font-weight:400;
+        //font-weight:400;
+        line-height: 1.2;
+        letter-spacing: 3px;
+        
+     
         &::before{
             content:"<h1>";
             color:#f1d233;
             font-size:18px;
             margin-top:-40px;
             position:absolute;
-            left:15px;
+           // left:15px;
             opacity:0.6;
             font-family:'La Belle Aurore';
 
@@ -30,7 +36,7 @@
             color:#f1d233;
             font-size:18px;
             position:absolute;
-            margin-top:18px;
+            margin-top:50px;
             margin-left:20px;
             animation:fadeIn 1s 1.7s backwards;
             opacity:0.6;

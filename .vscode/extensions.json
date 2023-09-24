@@ -1,5 +1,3 @@
 {
-    "recommendations": [
-        "cirlorm.mobileview"
-    ]
+  "recommendations": ["cirlorm.mobileview", "github.copilot-chat"]
 }

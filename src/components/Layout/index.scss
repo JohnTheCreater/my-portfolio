@@ -4,7 +4,7 @@
     position:absolute;
 
 }
-.top-tags{
+.top-body{
     
     bottom:auto;
     top:35px;
@@ -15,7 +15,7 @@
     position:absolute;  
     opacity:0.6;
     bottom:0;
-    left:150px;
+    left:100px;
     font-size:20px;
     font-family:'La Belle Aurore',cursive;
     display: inline-block;
@@ -23,6 +23,11 @@
 .bottom-tag-html{
    
     margin-left:-23px;
+}
+.top-html{
+    bottom: auto;
+    top:0px;
+    left:80px;
 }
 
 .container{
